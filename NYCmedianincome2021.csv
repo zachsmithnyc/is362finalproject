@@ -1,0 +1,13 @@
+Geo_FIPS,Geo_QName,Geo_FILEID,Geo_STUSAB,Geo_SUMLEV,Geo_GEOCOMP,Geo_LOGRECNO,Geo_US,Geo_REGION,Geo_DIVISION,Geo_STATECE,Geo_STATE,Geo_COUNTY,Geo_COUSUB,Geo_PLACE,Geo_TRACT,Geo_BLKGRP,Geo_CONCIT,Geo_AIANHH,Geo_AIANHHFP,Geo_AIHHTLI,Geo_AITSCE,Geo_AITS,Geo_ANRC,Geo_CBSA,Geo_CSA,Geo_METDIV,Geo_MACC,Geo_MEMI,Geo_NECTA,Geo_CNECTA,Geo_NECTADIV,Geo_UA,Geo_UACP,Geo_CDCURR,Geo_SLDU,Geo_SLDL,Geo_VTD,Geo_ZCTA3,Geo_ZCTA5,Geo_SUBMCD,Geo_SDELM,Geo_SDSEC,Geo_SDUNI,Geo_UR,Geo_PCI,Geo_TAZ,Geo_UGA,Geo_PUMA5,Geo_PUMA1,Geo_GEOID,Geo_NAME,Geo_BTTR,Geo_BTBG,Geo_PLACESE,SE_A14006_001
+"34003","Bergen County, New Jersey","ACSSF","nj","050","00","0000009",,,,,"34","003",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US34003","Bergen County",,,,109497
+"34013","Essex County, New Jersey","ACSSF","nj","050","00","0000014",,,,,"34","013",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US34013","Essex County",,,,67826
+"34017","Hudson County, New Jersey","ACSSF","nj","050","00","0000016",,,,,"34","017",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US34017","Hudson County",,,,79795
+"34031","Passaic County, New Jersey","ACSSF","nj","050","00","0000023",,,,,"34","031",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US34031","Passaic County",,,,78386
+"34039","Union County, New Jersey","ACSSF","nj","050","00","0000027",,,,,"34","039",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US34039","Union County",,,,87369
+"36005","Bronx County, New York","ACSSF","ny","050","00","0000015",,,,,"36","005",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US36005","Bronx County",,,,43726
+"36047","Kings County, New York","ACSSF","ny","050","00","0000036",,,,,"36","047",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US36047","Kings County",,,,67753
+"36061","New York County, New York","ACSSF","ny","050","00","0000043",,,,,"36","061",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US36061","New York County",,,,93956
+"36081","Queens County, New York","ACSSF","ny","050","00","0000053",,,,,"36","081",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US36081","Queens County",,,,75886
+"36085","Richmond County, New York","ACSSF","ny","050","00","0000055",,,,,"36","085",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US36085","Richmond County",,,,89427
+"36087","Rockland County, New York","ACSSF","ny","050","00","0000056",,,,,"36","087",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US36087","Rockland County",,,,99707
+"36119","Westchester County, New York","ACSSF","ny","050","00","0000072",,,,,"36","119",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US36119","Westchester County",,,,105387
